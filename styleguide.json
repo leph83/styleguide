@@ -14,9 +14,6 @@
 		},
 		{
 			"colorvalue": "#00fc00"
-		},
-		{
-			"colorvalue": "#d3ddad"
 		}
 	],
 	"fontfamily": [
@@ -26,11 +23,14 @@
 		}
 	],
 	"fontbasis": 18,
-	"heading1": "Heading 1 aweghweölgkhwegw",
+	"heading1": "Heading 1",
 	"heading2": "Heading 2",
 	"heading3": "Heading 3",
 	"heading4": "Heading 4",
 	"heading5": "Heading 5",
 	"heading6": "Heading 6",
-	"fontratio": 1.25
+	"fontratio": 1.25,
+	"heading7": "Heading 7",
+	"heading8": "Heading 8",
+	"heading9": "Heading 9"
 }
