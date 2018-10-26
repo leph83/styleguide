@@ -1,13 +1,16 @@
 {
 	"color": [
 		{
-			"color-value": "\n                        "
+			"color-value": "\n                        ",
+			"colorvalue": "#b467b6"
 		},
 		{
-			"color-value": "#000"
+			"color-value": "#000",
+			"colorvalue": "#c40000"
 		},
 		{
-			"color-value": "red"
+			"color-value": "red",
+			"colorvalue": "#ddb600"
 		}
 	]
 }
