@@ -21,11 +21,8 @@
 	],
 	"fontfamily": [
 		{
-			"fontfamily": "Times",
+			"fontfamily": "'Krub', sans-serif",
 			"fontfamilyurl": "https://fonts.googleapis.com/css?family=Krub"
-		},
-		{
-			"fontfamily": "Arial"
 		}
 	]
 }
