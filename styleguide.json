@@ -18,5 +18,9 @@
 		{
 			"colorvalue": "#d3ddad"
 		}
+	],
+	"fontfamily": [
+		"Times",
+		"Arial"
 	]
 }
