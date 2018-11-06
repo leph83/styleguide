@@ -1,12 +1,9 @@
 {
 	"color": [
 		{
-			"colorvalue": "#b467b6",
-			"colorvalue_picker": "#8af97a"
+			"colorvalue": "#b467b6"
 		},
-		{
-			"colorvalue_picker": "#6da1cf"
-		}
+		{}
 	],
 	"fontfamily": [
 		{
