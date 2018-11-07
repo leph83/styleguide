@@ -10,13 +10,14 @@
 	"fontfamily": [
 		{
 			"fontfamily": "'Poor Story'",
-			"fontfamilyurl": "https://fonts.googleapis.com/css?family=Poor+Story"
+			"fontfamilyurl": "https://fonts.googleapis.com/css?family=Poor+Story",
+			"fontfamilyname": "'Poor Story'"
 		},
 		{
 			"fontfamily": "'Krub', sans-serif",
-			"fontfamilyurl": "https://fonts.googleapis.com/css?family=Krub"
-		},
-		{}
+			"fontfamilyurl": "https://fonts.googleapis.com/css?family=Krub",
+			"fontfamilyname": "'Krub'"
+		}
 	],
 	"fontbasis": 18,
 	"heading1": "Heading 1 mit einem sehr langen Titel",
