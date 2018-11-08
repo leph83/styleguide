@@ -9,14 +9,14 @@
 	],
 	"fontfamily": [
 		{
-			"fontfamily": "'Poor Story'",
-			"fontfamilyurl": "https://fonts.googleapis.com/css?family=Poor+Story",
-			"fontfamilyname": "'Poor Story'"
-		},
-		{
 			"fontfamily": "'Krub', sans-serif",
 			"fontfamilyurl": "https://fonts.googleapis.com/css?family=Krub",
 			"fontfamilyname": "'Krub'"
+		},
+		{
+			"fontfamily": "'Poor Story'",
+			"fontfamilyurl": "https://fonts.googleapis.com/css?family=Poor+Story",
+			"fontfamilyname": "'Poor Story'"
 		}
 	],
 	"fontbasis": 18,
@@ -30,5 +30,5 @@
 	"heading7": "Heading 7",
 	"heading8": "Heading 8",
 	"heading9": "Heading 9",
-	"selectedfont": "'Krub'"
+	"selectedfont": "'Poor Story'"
 }
