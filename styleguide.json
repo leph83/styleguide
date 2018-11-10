@@ -8,6 +8,9 @@
 		},
 		{
 			"colorvalue": "#d0d0dd"
+		},
+		{
+			"colorvalue": "#cb0000"
 		}
 	],
 	"fontfamily": [
@@ -33,5 +36,6 @@
 	"heading7": "Heading 7",
 	"heading8": "Heading 8",
 	"heading9": "Heading 9",
-	"selectedfont": "'Krub'"
+	"selectedfont": "'Krub'",
+	"button": []
 }
